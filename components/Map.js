@@ -115,7 +115,7 @@ export default function Map({ positions }) {
                     border-radius: 2px;
                   "></div>
                   <div style="
-                    transform: rotate(-30deg);
+                    transform: rotate(-60deg);
                     transform-origin: left center;
                     font-size: 13px;
                     color: rgba(0,0,0,0.75);
