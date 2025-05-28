@@ -1,0 +1,36 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rangkasbitung-Tanahabang Line",
+        "color": "#0056b3"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [106.249382, -6.359803],  // Rangkasbitung
+          [106.282456, -6.333672],  // Citeras
+          [106.299876, -6.320541],  // Maja
+          [106.317543, -6.312098],  // Cikoya
+          [106.343201, -6.308701],  // Tigaraksa
+          [106.540123, -6.267301],  // Tenjo
+          [106.583210, -6.245678],  // Daru
+          [106.612345, -6.230987],  // Cilejit
+          [106.653215, -6.224501],  // Parungpanjang
+          [106.689765, -6.210432],  // Cicayur
+          [106.734543, -6.203215],  // Cisauk
+          [106.760987, -6.198765],  // Serpong
+          [106.772345, -6.195432],  // Rawabuntu
+          [106.789876, -6.189876],  // Sudimara
+          [106.801234, -6.187654],  // Jurangmangu
+          [106.812345, -6.185432],  // Pondokranji
+          [106.798765, -6.178901],  // Kebayoran
+          [106.789012, -6.176543],  // Palmerah
+          [106.809301, -6.186601]   // Tanahabang
+        ]
+      }
+    }
+  ]
+}
